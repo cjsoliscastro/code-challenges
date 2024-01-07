@@ -1,0 +1,11 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Code challenges I have done for practice",
+  "type": "module",
+  "scripts": {
+    "problem": "node problems/${npm_config_name}/solution.js"
+  },
+  "author": "Christopher Solis",
+  "license": "ISC"
+}
